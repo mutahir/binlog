@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Mutahir Notes"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+subtitle                 : tech-random
+name                     : "Mutahir"
 description              : "An amazing website."
 url                      : "https://mutahir.github.io"
 baseurl                  : "/binlog"
